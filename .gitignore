@@ -9,9 +9,7 @@
 
 .env
 .env.prod
-#Cloud
-task-definition
-trust-policy
+
 # Logs
 
 logs
